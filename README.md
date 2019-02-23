@@ -44,7 +44,7 @@ problem, we will explore two famous models Erdos-Renyi and Small World and compa
 real-world data from an academic collaboration network. Note that in this problem all networks
 are undirected.
 
-# Erdos-Renyi Random graph
+# Erdos-Renyi Random Network
 
 (G n,m random network): Generate a random instance of this model
 by using n nodes and picking m edges at random. Write code to construct instances of this model,
