@@ -8,6 +8,7 @@ set V and edge set E where (edges are ordered pairs of nodes). An edge (a, b) me
 voted on user b.
 
 Compute and print the following statistics
+
 Number of nodes
 Number of edges
 Number of self-edges
