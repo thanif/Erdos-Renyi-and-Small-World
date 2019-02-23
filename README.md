@@ -6,6 +6,8 @@ Load the Wikipedia voting network (file attached) in Snap. Note that Wikipedia i
 network. Formally, we consider the Wikipedia network as a directed graph G = (V,E), with node
 set V and edge set E where (edges are ordered pairs of nodes). An edge (a, b) means that user a
 voted on user b.
+
+
 Compute and print the following statistics
 Number of nodes
 Number of edges
